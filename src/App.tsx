@@ -14,7 +14,7 @@ export default function App() {
   return (
     <>
       <div>
-        <a href="https://genez.io" target="_blank">
+        <a href="https://genezio.com" target="_blank">
           <img
             src="https://raw.githubusercontent.com/Genez-io/graphics/main/svg/Logo_Genezio_White.svg"
             className="logo"
@@ -25,7 +25,7 @@ export default function App() {
           <img src={reactLogo} className="logo react" alt="React logo" />
         </a>
       </div>
-      <h1>Demo Frontend Genezio + React</h1>
+      <h1>Genezio + React = ❤️</h1>
       <div className="card">
         <input
           type="text"
