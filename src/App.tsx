@@ -1,6 +1,5 @@
 import { useState } from "react";
 import reactLogo from "./assets/react.svg";
-import { BackendService } from "@genezio-sdk/(•◡•)project-name(•◡•)_(•◡•)region(•◡•)";
 import "./App.css";
 
 export default function App() {
@@ -8,7 +7,7 @@ export default function App() {
   const [response, setResponse] = useState("");
 
   async function sayHello() {
-    setResponse(await BackendService.hello(name));
+    setResponse("TODO: Not Implemented");
   }
 
   return (
