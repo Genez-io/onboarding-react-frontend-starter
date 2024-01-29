@@ -16,7 +16,12 @@ export default function App() {
         <a href="https://genezio.com" target="_blank">
           <img
             src="https://raw.githubusercontent.com/Genez-io/graphics/main/svg/Logo_Genezio_White.svg"
-            className="logo"
+            className="logo genezio light"
+            alt="Genezio Logo"
+          />
+          <img
+            src="https://raw.githubusercontent.com/Genez-io/graphics/main/svg/Logo_Genezio_Black.svg"
+            className="logo genezio dark"
             alt="Genezio Logo"
           />
         </a>
